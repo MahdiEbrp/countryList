@@ -1,50 +1,50 @@
 countryCode,name,nativeName,currencySymbol,capitalCity,lat,long,firstDayOfWeek
 AD,Andorra,Andorra,€,Andorra la Vella,42.50779,1.52109,1
 AE,United Arab Emirates,الإمارات العربية المتحدة,د.إ.‏,Abu Dhabi,24.45118,54.39696,6
-AF,Afghanistan,افغانستان,؋,Kabul,34.52813,69.17233,0
-AG,Antigua & Barbuda,Antigua & Barbuda,$,St. John's,17.12096,-61.84329,1
+AF,Afghanistan,افغانستان,؋,Kabul,34.52813,69.17233,6
+AG,Antigua & Barbuda,Antigua & Barbuda,$,St. John's,17.12096,-61.84329,0
 AI,Anguilla,Anguilla,$,The Valley,18.21704,-63.05783,1
 AL,Albania,Shqipëri,Lekë,Tirana,41.3275,19.81889,1
-AM,Armenia,Հայաստան,֏,Yerevan,40.18111,44.51361,0
+AM,Armenia,Հայաստան,֏,Yerevan,40.18111,44.51361,1
 AO,Angola,Angola,Kz,Luanda,-8.83682,13.23432,1
-AR,Argentina,Argentina,$,Buenos Aires,-34.61315,-58.37723,6
+AR,Argentina,Argentina,$,Buenos Aires,-34.61315,-58.37723,0
 AS,American Samoa,American Samoa,$,Pago Pago,-14.27806,-170.7025,0
 AT,Austria,Österreich,€,Vienna,48.20849,16.37208,1
-AU,Australia,Australia,$,Canberra,-35.28346,149.12807,1
+AU,Australia,Australia,$,Canberra,-35.28346,149.12807,0
 AW,Aruba,Aruba,Afl.,Oranjestad,12.52398,-70.02703,1
 AX,Åland Islands,Åland,€,Mariehamn,60.09726,19.93481,1
 AZ,Azerbaijan,Азәрбајҹан,₼,Baku,40.37767,49.89201,1
 BA,Bosnia & Herzegovina,Bosna i Hercegovina,KM,Sarajevo,43.84864,18.35644,1
 BB,Barbados,Barbados,$,Bridgetown,13.10732,-59.62021,1
-BD,Bangladesh,বাংলাদেশ,৳,Dhaka,23.7104,90.40744,1
+BD,Bangladesh,বাংলাদেশ,৳,Dhaka,23.7104,90.40744,0
 BE,Belgium,België,€,Brussels,50.85045,4.34878,1
 BF,Burkina Faso,Burkina Faso,CFA,Ouagadougou,12.36566,-1.53388,1
 BG,Bulgaria,България,лв.,Sofia,42.69751,23.32415,1
-BH,Bahrain,البحرين,د.ب.‏,Manama,26.22787,50.58565,1
+BH,Bahrain,البحرين,د.ب.‏,Manama,26.22787,50.58565,6
 BI,Burundi,Uburundi,FBu,Bujumbura,-3.38193,29.36142,1
 BJ,Benin,Bénin,CFA,Porto-Novo,6.36536,2.41833,1
 BL,St. Barthélemy,Saint-Barthélemy,€,Gustavia,17.89618,-62.84978,1
 BM,Bermuda,Bermuda,$,Hamilton,32.2949,-64.78303,1
-BN,Brunei,Brunei,$,Bandar Seri Begawan,4.89035,114.94006,0
-BO,Bolivia,Bolivia,Bs,Sucre,-19.03332,-65.26274,0
-BR,Brazil,Brasil,R$,Brasilia,-15.77972,-47.92972,1
-BS,Bahamas,Bahamas,$,Nassau,25.05823,-77.34306,1
-BT,Bhutan,འབྲུག,Nu.,Thimphu,27.46609,89.64191,1
-BW,Botswana,Botswana,P,Gaborone,-24.65451,25.90859,1
+BN,Brunei,Brunei,$,Bandar Seri Begawan,4.89035,114.94006,1
+BO,Bolivia,Bolivia,Bs,Sucre,-19.03332,-65.26274,1
+BR,Brazil,Brasil,R$,Brasilia,-15.77972,-47.92972,0
+BS,Bahamas,Bahamas,$,Nassau,25.05823,-77.34306,0
+BT,Bhutan,འབྲུག,Nu.,Thimphu,27.46609,89.64191,0
+BW,Botswana,Botswana,P,Gaborone,-24.65451,25.90859,0
 BY,Belarus,Беларусь,Br,Minsk,53.9,27.56667,1
-BZ,Belize,Belize,$,Belmopan,17.25,-88.76667,1
-CA,Canada,Canada,$,Ottawa,45.41117,-75.69812,1
+BZ,Belize,Belize,$,Belmopan,17.25,-88.76667,0
+CA,Canada,Canada,$,Ottawa,45.41117,-75.69812,0
 CC,Cocos (Keeling) Islands,Cocos (Keeling) Islands,$,West Island,-12.15681,96.82251,1
 CD,Congo (DRC),Congo (République démocratique du),FC,Kinshasa,-4.32758,15.31357,1
 CF,Central African Republic,Ködörösêse tî Bêafrîka,FCFA,Bangui,4.36122,18.55496,1
 CG,Congo,Congo,FCFA,Brazzaville,-4.26613,15.28318,1
-CH,Switzerland,Svizzera,CHF,Bern,46.94809,7.44744,0
+CH,Switzerland,Svizzera,CHF,Bern,46.94809,7.44744,1
 CI,Côte d’Ivoire,Côte d’Ivoire,CFA,Yamoussoukro,6.82055,-5.27674,1
 CK,Cook Islands,Cook Islands,$,Avarua,-21.2075,-159.77545,1
 CL,Chile,Chile,$,Santiago,-33.45694,-70.64827,1
-CN,China,中国,￥,Beijing,39.9075,116.39723,1
-CO,Colombia,Colombia,$,Bogota,4.60971,-74.08175,1
-CR,Costa Rica,Costa Rica,₡,San Jose,9.93333,-84.08333,0
+CN,China,中国,￥,Beijing,39.9075,116.39723,0
+CO,Colombia,Colombia,$,Bogota,4.60971,-74.08175,0
+CR,Costa Rica,Costa Rica,₡,San Jose,9.93333,-84.08333,1
 CU,Cuba,Cuba,$,Havana,23.13302,-82.38304,1
 CV,Cabo Verde,Cabo Verde,​,Praia,14.93152,-23.51254,1
 CW,Curaçao,Curaçao,NAf.,Willemstad,12.116667,-68.933333,1
@@ -52,17 +52,17 @@ CX,Christmas Island,Christmas Island,$,Flying Fish Cove,-10.42172,105.67912,1
 CY,Cyprus,Κύπρος,€,Nicosia,35.17531,33.3642,1
 CZ,Czechia,Česko,Kč,Prague,50.08804,14.42076,1
 DE,Germany,Deutschland,€,Berlin,52.52437,13.41053,1
-DJ,Djibouti,Djibouti,Fdj,Djibouti,11.58901,43.14503,1
+DJ,Djibouti,Djibouti,Fdj,Djibouti,11.58901,43.14503,6
 DK,Denmark,Danmark,kr.,Copenhagen,55.67594,12.56553,1
-DM,Dominica,Dominica,$,Roseau,15.30174,-61.38808,1
-DO,Dominican Republic,República Dominicana,RD$,Santo Domingo,18.47186,-69.89232,1
-DZ,Algeria,الجزائر,د.ج.‏,Algiers,36.73225,3.08746,0
+DM,Dominica,Dominica,$,Roseau,15.30174,-61.38808,0
+DO,Dominican Republic,República Dominicana,RD$,Santo Domingo,18.47186,-69.89232,0
+DZ,Algeria,الجزائر,د.ج.‏,Algiers,36.73225,3.08746,6
 EC,Ecuador,Ecuador,$,Quito,-0.22985,-78.52495,1
 EE,Estonia,Eesti,€,Tallinn,59.43696,24.75353,1
-EG,Egypt,مصر,ج.م.‏,Cairo,30.06263,31.24967,1
+EG,Egypt,مصر,ج.م.‏,Cairo,30.06263,31.24967,6
 ER,Eritrea,ER,Nfk,Asmara,15.33805,38.93184,1
 ES,Spain,España,€,Madrid,40.4165,-3.70256,1
-ET,Ethiopia,ኢትዮጵያ,ብር,Addis Ababa,9.02497,38.74689,1
+ET,Ethiopia,ኢትዮጵያ,ብር,Addis Ababa,9.02497,38.74689,0
 FI,Finland,Suomi,€,Helsinki,60.16952,24.93545,1
 FJ,Fiji,Fiji,$,Suva,-18.14161,178.44149,1
 FK,Falkland Islands,Falkland Islands,£,Stanley,-51.69382,-57.85701,1
@@ -79,43 +79,43 @@ GH,Ghana,Ghana,GH₵,Accra,5.55602,-0.1969,1
 GI,Gibraltar,Gibraltar,£,Gibraltar,36.14474,-5.35257,1
 GL,Greenland,Kalaallit Nunaat,kr.,Nuuk,64.18347,-51.72157,1
 GM,Gambia,Gambia,D,Banjul,13.43833,-16.67806,1
-GN,Guinea,Guinée,FG,Conakry,9.535,-13.68778,0
+GN,Guinea,Guinée,FG,Conakry,9.535,-13.68778,1
 GP,Guadeloupe,Guadeloupe,€,Basse-Terre,15.99714,-61.73214,1
 GQ,Equatorial Guinea,Guinea Ecuatorial,FCFA,Malabo,1.86391,9.76582,1
 GR,Greece,Ελλάδα,€,Athens,37.98376,23.72784,1
-GT,Guatemala,Guatemala,Q,Guatemala City,14.64072,-90.51327,1
+GT,Guatemala,Guatemala,Q,Guatemala City,14.64072,-90.51327,0
 GU,Guam,Guam,$,Hagatna,13.46559,144.74795,0
 GW,Guinea-Bissau,Guiné-Bissau,CFA,Bissau,11.86357,-15.59767,1
 GY,Guyana,Guyana,$,Georgetown,6.80448,-58.15527,1
-HK,Hong Kong SAR,香港特別行政區,HK$,Hong Kong,22.27832,114.17469,1
-HN,Honduras,Honduras,L,Tegucigalpa,14.0818,-87.20681,1
+HK,Hong Kong SAR,香港特別行政區,HK$,Hong Kong,22.27832,114.17469,0
+HN,Honduras,Honduras,L,Tegucigalpa,14.0818,-87.20681,0
 HR,Croatia,Hrvatska,HRK,Zagreb,45.81444,15.97798,1
 HT,Haiti,Haïti,G,Port-au-Prince,18.54349,-72.33881,1
 HU,Hungary,Magyarország,Ft,Budapest,47.49835,19.04045,1
 ID,Indonesia,Indonesia,Rp,Jakarta,-6.21462,106.84513,0
 IE,Ireland,Ireland,€,Dublin,53.33306,-6.24889,1
-IL,Israel,ישראל,₪,Jerusalem,31.76904,35.21633,1
+IL,Israel,ישראל,₪,Jerusalem,31.76904,35.21633,0
 IM,Isle of Man,Ellan Vannin,£,Douglas,54.15,-4.48333,1
 IN,India,भारत,₹,New Delhi,28.65195,77.23149,0
-IQ,Iraq,العراق,د.ع.‏,Baghdad,33.34058,44.40088,1
-IR,Iran,ایران,ریال,Tehran,35.69439,51.42151,1
+IQ,Iraq,العراق,د.ع.‏,Baghdad,33.34058,44.40088,6
+IR,Iran,ایران,ریال,Tehran,35.69439,51.42151,6
 IS,Iceland,Ísland,ISK,Reykjavik,64.13548,-21.89541,1
 IT,Italy,Italia,€,Rome,41.89193,12.51133,1
 JE,Jersey,Jersey,£,Saint Helier,49.18804,-2.10491,1
-JO,Jordan,الأردن,د.أ.‏,Amman,31.95522,35.94503,1
-JP,Japan,日本,￥,Tokyo,35.6895,139.69171,1
-KE,Kenya,Kenya,Ksh,Nairobi,-1.28333,36.81667,1
+JO,Jordan,الأردن,د.أ.‏,Amman,31.95522,35.94503,6
+JP,Japan,日本,￥,Tokyo,35.6895,139.69171,0
+KE,Kenya,Kenya,Ksh,Nairobi,-1.28333,36.81667,0
 KG,Kyrgyzstan,Кыргызстан,сом,Bishkek,42.87,74.59,1
-KH,Cambodia,កម្ពុជា,៛,Phnom Penh,11.56245,104.91601,1
-KI,Kiribati,Kiribati,$,Tarawa,1.3278,172.97696,0
-KM,Comoros,جزر القمر,CF,Moroni,-11.70216,43.25506,0
-KN,St. Kitts & Nevis,St. Kitts & Nevis,$,Basseterre,17.2955,-62.72499,0
+KH,Cambodia,កម្ពុជា,៛,Phnom Penh,11.56245,104.91601,0
+KI,Kiribati,Kiribati,$,Tarawa,1.3278,172.97696,1
+KM,Comoros,جزر القمر,CF,Moroni,-11.70216,43.25506,1
+KN,St. Kitts & Nevis,St. Kitts & Nevis,$,Basseterre,17.2955,-62.72499,1
 KP,North Korea,조선민주주의인민공화국,KPW,Pyongyang,39.03385,125.75432,1
-KR,Korea,대한민국,₩,Seoul,37.566,126.9784,1
-KW,Kuwait,الكويت,د.ك.‏,Kuwait City,29.36972,47.97833,1
+KR,Korea,대한민국,₩,Seoul,37.566,126.9784,0
+KW,Kuwait,الكويت,د.ك.‏,Kuwait City,29.36972,47.97833,6
 KY,Cayman Islands,Cayman Islands,$,George Town,19.2866,-81.37436,1
 KZ,Kazakhstan,Қазақстан,₸,Nur-Sultan,51.1801,71.44598,1
-LA,Laos,ລາວ,₭,Vientiane,17.96667,102.6,1
+LA,Laos,ລາວ,₭,Vientiane,17.96667,102.6,0
 LB,Lebanon,لبنان,ل.ل.‏,Beirut,33.89332,35.50157,1
 LC,St. Lucia,St. Lucia,$,Castries,13.9957,-61.00614,1
 LI,Liechtenstein,Liechtenstein,CHF,Vaduz,47.16498,9.50867,1
@@ -125,7 +125,7 @@ LS,Lesotho,LS,R,Maseru,-29.31667,27.48333,1
 LT,Lithuania,Lietuva,€,Vilnius,54.68916,25.2798,1
 LU,Luxembourg,Lëtzebuerg,€,Luxembourg,49.61167,6.13,1
 LV,Latvia,Latvija,€,Riga,56.946,24.10589,1
-LY,Libya,ليبيا,د.ل.‏,Tripoli,32.88743,13.18733,1
+LY,Libya,ليبيا,د.ل.‏,Tripoli,32.88743,13.18733,6
 MA,Morocco,المغرب,د.م.‏,Rabat,34.01325,-6.83255,1
 MC,Monaco,Monaco,€,Monaco,43.73333,7.41667,1
 MD,Moldova,Republica Moldova,L,Chisinau,47.00556,28.8575,1
@@ -134,49 +134,49 @@ MF,St. Martin,Saint-Martin,€,Marigot,18.06819,-63.08302,1
 MG,Madagascar,Madagasikara,Ar,Antananarivo,-18.91368,47.53613,1
 MH,Marshall Islands,Marshall Islands,$,Majuro,7.08971,171.38027,0
 MK,North Macedonia,Северна Македонија,ден,Skopje,41.99646,21.43141,1
-ML,Mali,Mali,CFA,Bamako,12.65,-8.0,0
-MM,Myanmar,မြန်မာ,K,Nay Pyi Taw,19.745,96.12972,1
+ML,Mali,Mali,CFA,Bamako,12.65,-8.0,1
+MM,Myanmar,မြန်မာ,K,Nay Pyi Taw,19.745,96.12972,0
 MN,Mongolia,Монгол,₮,Ulaanbaatar,47.90771,106.88324,1
-MO,Macao SAR,澳門特別行政區,MOP$,Macao,22.20056,113.54611,1
+MO,Macao SAR,澳門特別行政區,MOP$,Macao,22.20056,113.54611,0
 MP,Northern Mariana Islands,Northern Mariana Islands,$,Saipan,15.21233,145.7545,1
 MQ,Martinique,Martinique,€,Fort-de-France,14.60365,-61.07418,1
-MR,Mauritania,موريتانيا,أ.م.,Nouakchott,18.08581,-15.9785,0
+MR,Mauritania,موريتانيا,أ.م.,Nouakchott,18.08581,-15.9785,1
 MS,Montserrat,Montserrat,$,Plymouth,16.70555,-62.21292,1
 MT,Malta,Malta,€,Valletta,35.89968,14.5148,0
 MU,Mauritius,Mauritius,Rs,Port Louis,-20.16194,57.49889,1
-MV,Maldives,MV,ރ.,Male,4.17521,73.50916,1
+MV,Maldives,MV,ރ.,Male,4.17521,73.50916,5
 MW,Malawi,Malawi,MK,Lilongwe,-13.96692,33.78725,1
-MX,Mexico,México,$,Mexico City,19.42847,-99.12766,1
-MY,Malaysia,Malaysia,RM,Kuala Lumpur,3.1412,101.68653,0
-MZ,Mozambique,Moçambique,MTn,Maputo,-25.96553,32.58322,1
+MX,Mexico,México,$,Mexico City,19.42847,-99.12766,0
+MY,Malaysia,Malaysia,RM,Kuala Lumpur,3.1412,101.68653,1
+MZ,Mozambique,Moçambique,MTn,Maputo,-25.96553,32.58322,0
 NA,Namibia,Namibia,$,Windhoek,-22.55941,17.08323,1
 NC,New Caledonia,Nouvelle-Calédonie,FCFP,Noumea,-22.27407,166.44884,1
-NE,Niger,Niger,CFA,Niamey,13.51366,2.1098,0
+NE,Niger,Niger,CFA,Niamey,13.51366,2.1098,1
 NF,Norfolk Island,Norfolk Island,$,Kingston,-29.05459,167.96628,1
 NG,Nigeria,Naịjịrịa,₦,Abuja,9.05785,7.49508,1
-NI,Nicaragua,Nicaragua,C$,Managua,12.13282,-86.2504,1
+NI,Nicaragua,Nicaragua,C$,Managua,12.13282,-86.2504,0
 NL,Netherlands,Nederland,€,Amsterdam,52.37403,4.88969,1
 NO,Norway,Noreg,kr,Oslo,59.91273,10.74609,1
-NP,Nepal,नेपाल,नेरू,Kathmandu,27.70169,85.3206,1
-NR,Nauru,Nauru,$,Yaren,-0.55085,166.9252,0
+NP,Nepal,नेपाल,नेरू,Kathmandu,27.70169,85.3206,0
+NR,Nauru,Nauru,$,Yaren,-0.55085,166.9252,1
 NU,Niue,Niue,$,Alofi,-19.05451,-169.91768,1
 NZ,New Zealand,New Zealand,$,Wellington,-41.28664,174.77557,1
-OM,Oman,عُمان,ر.ع.‏,Muscat,23.58413,58.40778,0
+OM,Oman,عُمان,ر.ع.‏,Muscat,23.58413,58.40778,6
 PA,Panama,Panamá,B/.,Panama City,8.9936,-79.51973,0
-PE,Peru,Perú,S/,Lima,-12.04318,-77.02824,1
+PE,Peru,Perú,S/,Lima,-12.04318,-77.02824,0
 PF,French Polynesia,Polynésie française,FCFP,Papeete,-17.5347,-149.56843,1
 PG,Papua New Guinea,Papua New Guinea,K,Port Moresby,-9.47723,147.15089,1
-PH,Philippines,Philippines,₱,Manila,14.6488,121.0509,1
-PK,Pakistan,پاکستان,Rs,Islamabad,33.72148,73.04329,1
+PH,Philippines,Philippines,₱,Manila,14.6488,121.0509,0
+PK,Pakistan,پاکستان,Rs,Islamabad,33.72148,73.04329,0
 PL,Poland,Polska,zł,Warsaw,52.22977,21.01178,1
 PM,St. Pierre & Miquelon,Saint-Pierre-et-Miquelon,€,Saint-Pierre,46.77914,-56.1773,1
 PN,Pitcairn Islands,Pitcairn Islands,$,Adamstown,-25.06597,-130.10147,1
-PR,Puerto Rico,Puerto Rico,$,San Juan,18.46633,-66.10572,1
-PS,Palestinian Authority,السلطة الفلسطينية,₪,East Jerusalem,31.78336,35.23388,6
+PR,Puerto Rico,Puerto Rico,$,San Juan,18.46633,-66.10572,0
+PS,Palestinian Authority,السلطة الفلسطينية,₪,East Jerusalem,31.78336,35.23388,1
 PT,Portugal,Portugal,€,Lisbon,38.71667,-9.13333,0
 PW,Palau,Palau,US$,Melekeok,7.49567,134.63671,1
-PY,Paraguay,Paraguay,Gs.,Asuncion,-25.28646,-57.647,1
-QA,Qatar,قطر,ر.ق.‏,Doha,25.28545,51.53096,1
+PY,Paraguay,Paraguay,Gs.,Asuncion,-25.28646,-57.647,0
+QA,Qatar,قطر,ر.ق.‏,Doha,25.28545,51.53096,6
 RE,Réunion,La Réunion,€,Saint-Denis,-20.88231,55.4504,1
 RO,Romania,România,RON,Bucharest,44.43225,26.10626,1
 RS,Serbia,Srbija,RSD,Belgrade,44.80401,20.46513,1
@@ -185,55 +185,55 @@ RW,Rwanda,U Rwanda,RF,Kigali,-1.94995,30.05885,1
 SA,Saudi Arabia,المملكة العربية السعودية,ر.س.‏,Riyadh,24.68773,46.72185,0
 SB,Solomon Islands,Solomon Islands,$,Honiara,-9.43333,159.95,1
 SC,Seychelles,Seychelles,SR,Victoria,-4.62001,55.45501,1
-SD,Sudan,السودان,ج.س.,Khartoum,15.55177,32.53241,0
+SD,Sudan,السودان,ج.س.,Khartoum,15.55177,32.53241,6
 SE,Sweden,Sverige,kr,Stockholm,59.32938,18.06871,1
-SG,Singapore,新加坡,$,Singapore,1.28967,103.85007,1
+SG,Singapore,新加坡,$,Singapore,1.28967,103.85007,0
 SH,St Helena; Ascension; Tristan da Cunha,St Helena; Ascension; Tristan da Cunha,£,Jamestown,-15.93872,-5.71675,1
 SI,Slovenia,Slovenija,€,Ljubljana,46.05108,14.50513,1
 SJ,Svalbard & Jan Mayen,Svalbard og Jan Mayen,kr,Longyearbyen,78.22334,15.64689,1
 SK,Slovakia,Slovensko,€,Bratislava,48.14816,17.10674,1
 SL,Sierra Leone,Sierra Leone,Le,Freetown,8.48714,-13.2356,1
-SM,San Marino,San Marino,€,San Marino,43.96897,12.48167,0
-SN,Senegal,Senegaal,CFA,Dakar,14.6937,-17.44406,0
+SM,San Marino,San Marino,€,San Marino,43.96897,12.48167,1
+SN,Senegal,Senegaal,CFA,Dakar,14.6937,-17.44406,1
 SO,Somalia,Soomaaliya,S,Mogadishu,2.03711,45.34375,1
 SR,Suriname,Suriname,$,Paramaribo,5.86638,-55.16682,1
-SS,South Sudan,South Sudan,£,Juba,4.85165,31.58247,0
-ST,São Tomé & Príncipe,São Tomé e Príncipe,Db,Sao Tome,0.33654,6.72732,0
-SV,El Salvador,El Salvador,$,San Salvador,13.68935,-89.18718,1
+SS,South Sudan,South Sudan,£,Juba,4.85165,31.58247,1
+ST,São Tomé & Príncipe,São Tomé e Príncipe,Db,Sao Tome,0.33654,6.72732,1
+SV,El Salvador,El Salvador,$,San Salvador,13.68935,-89.18718,0
 SX,Sint Maarten,Sint-Maarten,NAf.,Philipsburg,18.026,-63.04582,1
-SY,Syria,سوريا,ل.س.‏,Damascus,36.20124,37.16117,1
+SY,Syria,سوريا,ل.س.‏,Damascus,36.20124,37.16117,6
 SZ,Eswatini,eSwatini,E,Mbabane,-26.49884,31.38004,1
 TC,Turks & Caicos Islands,Turks & Caicos Islands,US$,Cockburn Town,21.46122,-71.14188,1
 TD,Chad,Tchad,FCFA,N'Djamena,12.10672,15.0444,1
 TG,Togo,Togo,CFA,Lome,6.12874,1.22154,1
 TH,Thailand,ไทย,฿,Bangkok,13.75398,100.50144,0
 TJ,Tajikistan,Тоҷикистон,сом.,Dushanbe,38.53575,68.77905,1
-TL,Timor-Leste,Timor-Leste,US$,Dili,-8.55861,125.57361,0
+TL,Timor-Leste,Timor-Leste,US$,Dili,-8.55861,125.57361,1
 TM,Turkmenistan,Türkmenistan,TMT,Ashgabat,37.95,58.38333,1
-TN,Tunisia,تونس,د.ت.‏,Tunis,36.81897,10.16579,0
+TN,Tunisia,تونس,د.ت.‏,Tunis,36.81897,10.16579,1
 TO,Tonga,Tonga,T$,Nuku'alofa,-21.13938,-175.2018,1
 TR,Turkey,Türkiye,₺,Ankara,39.91987,32.85427,1
-TT,Trinidad & Tobago,Trinidad & Tobago,$,Port of Spain,10.66668,-61.51889,1
+TT,Trinidad & Tobago,Trinidad & Tobago,$,Port of Spain,10.66668,-61.51889,0
 TV,Tuvalu,Tuvalu,$,Funafuti,-8.52425,179.19417,1
-TW,Taiwan,台灣,$,Taipei,25.04776,121.53185,1
+TW,Taiwan,台灣,$,Taipei,25.04776,121.53185,0
 TZ,Tanzania,Tanzania,TSh,Dodoma,-6.17221,35.73947,1
 UA,Ukraine,Україна,₴,Kyiv,50.45466,30.5238,1
-UG,Uganda,Uganda,USh,Kampala,0.31628,32.58219,0
-US,United States,United States,$,Washington,38.89511,-77.03637,1
+UG,Uganda,Uganda,USh,Kampala,0.31628,32.58219,1
+US,United States,United States,$,Washington,38.89511,-77.03637,0
 UY,Uruguay,Uruguay,$,Montevideo,-34.90328,-56.18816,1
 UZ,Uzbekistan,Ўзбекистон,сўм,Tashkent,41.26465,69.21627,1
 VA,Vatican City,Città del Vaticano,€,Vatican City,41.90268,12.45414,1
 VC,St. Vincent & Grenadines,St. Vincent & Grenadines,$,Kingstown,13.15527,-61.22742,1
 VE,Venezuela,Venezuela,Bs.S,Caracas,10.48801,-66.87919,0
 VG,British Virgin Islands,British Virgin Islands,US$,Road Town,18.42693,-64.62079,1
-VI,U.S. Virgin Islands,U.S. Virgin Islands,$,Charlotte Amalie,18.3419,-64.9307,1
+VI,U.S. Virgin Islands,U.S. Virgin Islands,$,Charlotte Amalie,18.3419,-64.9307,0
 VN,Vietnam,Việt Nam,₫,Hanoi,21.0245,105.84117,1
 VU,Vanuatu,Vanuatu,VT,Port Vila,-17.73648,168.31366,1
 WF,Wallis & Futuna,Wallis-et-Futuna,FCFP,Mata Utu,-13.28163,-176.17453,1
-WS,Samoa,Samoa,WS$,Apia,-13.83333,-171.76666,1
+WS,Samoa,Samoa,WS$,Apia,-13.83333,-171.76666,0
 XK,Kosovo,Kosovë,€,Pristina,42.67272,21.16688,1
-YE,Yemen,اليمن,ر.ي.‏,Sanaa,15.35472,44.20667,1
+YE,Yemen,اليمن,ر.ي.‏,Sanaa,15.35472,44.20667,0
 YT,Mayotte,Mayotte,€,Mamoudzou,-12.78234,45.22878,1
 ZA,South Africa,Suid-Afrika,R,Pretoria,-25.74486,28.18783,0
 ZM,Zambia,Zambia,K,Lusaka,-15.40669,28.28713,1
-ZW,Zimbabwe,Zimbabwe,US$,Harare,-17.82772,31.05337,1
+ZW,Zimbabwe,Zimbabwe,US$,Harare,-17.82772,31.05337,0
